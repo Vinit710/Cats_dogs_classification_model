@@ -22,5 +22,5 @@ The model consists of several convolutional layers followed by max-pooling layer
 
 ## Access the model(test model) here
  Signup for hugging faces and test the model:https://huggingface.co/ 
- /n
+ <br>
  Test the model here:https://huggingface.co/spaces/Vinit710/classification_models
