@@ -1,4 +1,4 @@
-# Cats_dogs_classification_model
+
 # Cats and Dogs Classification Model
 
 This project implements a Convolutional Neural Network (CNN) model to classify images of cats and dogs. The model is built using TensorFlow and Keras, and can be tested using a Gradio interface.
@@ -21,5 +21,6 @@ The model consists of several convolutional layers followed by max-pooling layer
 - Dense (Output layer)
 
 ## Access the model(test model) here
- Signup for hugging faces and test the model:https://huggingface.co/
+ Signup for hugging faces and test the model:https://huggingface.co/ 
+ /n
  Test the model here:https://huggingface.co/spaces/Vinit710/classification_models
